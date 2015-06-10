@@ -15,3 +15,5 @@
 * https://www.youtube.com/channel/UCnFP0IU4gpnmcLnVzDLUtfw - a very cool youtube channel
 * https://www.flickr.com/ - awesome photos
 * http://it-ebooks.info/tag/programming/ - cool books for download
+
+:boom::boom::boom:
