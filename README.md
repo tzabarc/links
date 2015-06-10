@@ -8,4 +8,3 @@
 * http://github.com - a useless link to github
 * https://www.youtube.com/channel/UCnFP0IU4gpnmcLnVzDLUtfw - a very cool youtube channel 
 
-* ...
